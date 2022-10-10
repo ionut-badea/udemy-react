@@ -1,0 +1,8 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "markdown": false,
+    "plaintext": false,
+    "yaml": false
+  }
+}
